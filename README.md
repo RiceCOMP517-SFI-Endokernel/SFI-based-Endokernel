@@ -16,7 +16,7 @@ pushback for proposal.**
 -   *Group Selection and Topic Statement*: select your
     partner and turn in a topic sentence.
 
--   [Proposal](proposal/README.md) [**DUE:9/26/19**]:
+-   [Proposal](proposal/README.md):
     Written proposal for the project that states the problem
     you will address, the motivation for why this is an
     interesting problem, the goal of your project, the
@@ -27,18 +27,18 @@ pushback for proposal.**
     out the project and a schedule for meeting these
     milestones.
 
--   Midterm Meetings [**DUE:10/17/19**]: meet with me
+-   Midterm Meetings: meet with me
     personally to check up on progress for schedule and
     milestones. The goal is to produce a real system, if
     implementing, or initial data for measurement projects.
 
--   Midterm Report [**DUE:10/31/19**]: Preliminary results
+-   Midterm Report: Preliminary results
     and report, which is close to final report.
 
--   Project Presentation [**DUE:12/3/19**]: Each group will
+-   Project Presentation: Each group will
     present their work at the end of the semester.
 
--   Final Project Report [**DUE:12/10/19**]: Final project
+-   Final Project Report: Final project
     report written in conference style.
 
 I have project ideas, but encourage you to come up with a
